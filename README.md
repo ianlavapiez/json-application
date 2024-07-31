@@ -13,3 +13,5 @@ Then you can start the app by executing the following command:
 ```bash
 npm run dev
 ```
+
+See [demo](https://json-application-exercise.web.app/).
