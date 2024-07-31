@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "type": "men",
+    "population": "212.9M",
+    "country": {
+      "australia": "12.84M",
+      "ghana": "16.46M",
+      "indonesia": "139.13M",
+      "kenya": "27.32M"
+    }
+  },
+  {
+    "id": 2,
+    "type": "women",
+    "population": "212.9M",
+    "country": {
+      "australia": "12.94M",
+      "ghana": "16.38M",
+      "indonesia": "137.23M",
+      "kenya": "27.66M"
+    }
+  },
+  {
+    "id": 3,
+    "type": "youth",
+    "population": "172.9M",
+    "country": {
+      "australia": "5.71M",
+      "ghana": "14.62M",
+      "indonesia": "82.96M",
+      "kenya": "24.42M"
+    }
+  }
+]
